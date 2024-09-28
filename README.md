@@ -3,7 +3,6 @@
 ### Olá! Eu sou Ramom Souza
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramomsouza07&theme=synthwave)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramomsouza07&layout=compact&theme=synthwave)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
