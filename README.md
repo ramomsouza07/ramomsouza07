@@ -9,7 +9,7 @@
 
 ### About Me
 - Currently working as a **Marketing Advisor at SerraJr Engenharia**.
-- I love building interactive fullstack projects!
+- I like building interactive fullstack projects!
 
 ### Tech Stack & Tools
 
